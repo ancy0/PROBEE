@@ -18,8 +18,8 @@ description: Capstone Team 14
 theme: just-the-docs
 plugins:
   - jekyll-feed
-baseurl: "/PROBEE" # the subpath of your site, e.g. /blog
-url: "https://ancy0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ancy0.github.io/PROBEE/" # the base hostname & protocol for your site, e.g. http://example.com
 # url: http://localhost:4000
 repository: just-the-docs/just-the-docs # for github-metadata
 
