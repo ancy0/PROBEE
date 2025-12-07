@@ -13,3 +13,5 @@ gem "jekyll-seo-tag"
 gem "html-proofer", "~> 5.0", :group => :development
 gem 'wdm', '>= 0.1.0'
 gem "webrick"
+gem "base64"
+gem "kramdown-parser-gfm"
